@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\Creditos Bancarios\Modelo\bin\Debug\Modelo.dll
+c:\users\user\documents\visual studio 2012\Projects\Creditos Bancarios\Modelo\bin\Debug\Modelo.pdb
+c:\users\user\documents\visual studio 2012\Projects\Creditos Bancarios\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Creditos Bancarios\Modelo\obj\Debug\Modelo.dll
+c:\users\user\documents\visual studio 2012\Projects\Creditos Bancarios\Modelo\obj\Debug\Modelo.pdb
